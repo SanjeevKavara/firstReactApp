@@ -1,0 +1,35 @@
+.clr{
+    background-color: blueviolet;
+    font-size: larger;
+}
+
+.container{
+    width: 15em;
+    margin: 0 0.2em;
+    float: left;position: relative;
+}
+
+.title{
+    font-size: 1.2em;
+    font-weight: bold;
+    color: wheat;
+}
+
+.channel{
+    font-size: 0.8em;
+    color: wheat;
+}
+
+.close{
+position: absolute;
+right: 0;
+font-size: 1em;
+
+
+}
+
+.edit{
+    position: absolute;
+    right:4em;
+    bottom: 4em;
+}
